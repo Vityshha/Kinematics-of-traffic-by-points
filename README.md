@@ -24,4 +24,6 @@ simulate_tractor(tractor, dt): a function that simulates the movement of a tract
 
 ## Example
 
+![Search](/Examples/ris1.jpeg)
+
 
